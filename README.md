@@ -1,5 +1,5 @@
 ## Multiple Photos Upload - Ionic and Cordova
-
+![alt tag](http://i.imgur.com/dEmp8Fm.png)
 * Create ionic project
 * Install cordova-plugin-camera
   ```
