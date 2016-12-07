@@ -2,7 +2,7 @@
 
 * Create ionic project
 * Install cordova-plugin-camera
-  ```sh
+  ```
   $ cordova plugin add cordova-plugin-camera
   ```
 * Insert the tag: <multiple-photos-upload max-photos="MAX_PHOTOS_VALUE"></multiple-photos-upload> in your project. 
