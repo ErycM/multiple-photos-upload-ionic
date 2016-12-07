@@ -9,7 +9,7 @@
 * The datas os the images are send per broadcast (photos-array): 
 ```javascript
   $scope.$on('photos-array', function(event, args){
-      $scope.photos = args;
+      $scope.photos = args; //photos array
   });
  ```
 
