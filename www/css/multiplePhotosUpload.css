@@ -1,0 +1,79 @@
+#multiple-upload{
+    background: rgba(128, 128, 128, 0.19);
+    padding: 3%;
+}
+
+#multiple-upload input{
+    display: none;
+}
+#multiple-upload .box{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#multiple-upload .photo-box{
+    display: inline-block;
+}
+
+#multiple-upload .extern-box{
+    width: 97.1%;
+    margin: 0% 1.2% 0% 1.2%;
+    text-align: center;
+    background-color: #6caeab; 
+}
+
+#multiple-upload .ion-images,  #multiple-upload .ion-checkmark-circled{
+    font-size: 650%;
+    color: white;
+}
+
+#multiple-upload .ion-image{
+    font-size: 746%;
+    color: white;
+    padding: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#multiple-upload .item-photo .picture{
+    width: 100%;
+    height: 100%;
+    background: #6caeab;
+    border-radius: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#multiple-upload .ion-close-circled{
+    position: relative;
+    background-color: white;
+    font-size: 5.5vh;
+    float: right;
+    border-radius: 50%;
+    height: 5vh;
+    width: 5vh;
+    z-index: 5000;
+    top: -8%;
+    left: 4%;
+}
+
+#multiple-upload .item-photo{
+    height: 35vw;
+    background: #6caeab;
+    position: relative;
+}
+#multiple-upload .item-photo .picture{
+    width: 100%;
+    height: 100%;
+    background: #6caeab;
+    border-radius: 0;
+}
