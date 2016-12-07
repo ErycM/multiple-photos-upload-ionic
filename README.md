@@ -1,6 +1,5 @@
 ## Multiple Photos Upload - Ionic and Cordova
--> This is centered Text <-
-->![alt tag](http://i.imgur.com/dEmp8Fm.png)<-
+![alt tag](http://i.imgur.com/dEmp8Fm.png)
 * Create ionic project
 * Install cordova-plugin-camera
   ```
