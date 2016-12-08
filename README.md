@@ -7,7 +7,7 @@
   ```
 * Insert ```multiplePhotosUpload.component.js``` (change the module) and ```multiplePhotosUpload.css``` files
 * Insert the tag: ``` <multiple-photos-upload max-photos="MAX_PHOTOS_VALUE"></multiple-photos-upload>  ``` in your project. 
-* The datas os the images are send per broadcast (photos-array): 
+* The datas os the images are send per broadcast (photos-array) in base64: 
 ```javascript
   $scope.$on('photos-array', function(event, args){
       $scope.photos = args; //photos array
